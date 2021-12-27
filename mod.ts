@@ -26,7 +26,8 @@ async function handleRequest(request: Request): Promise<Response> {
         <link rel="stylesheet" href="style.css" />
       </head>
       <body>
-        <h1>Example</h1>
+        <h1>CM-CLI</h1>
+        <h1>xiao 1</h1>
       </body>
     </html>`,
     {
